@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Overview of NetCDF files:
 
 ->HadSST.4.0.1.0 (The Hadley Centre Sea Surface Temperature Dataset) dataset spans from 1850 to present, providing the gridded temperature anomalies at spatial resolution of 5-degree latitude by 5-degree longitude grid. This dataset is created by situ measurements of SST from ships and buoys, rejecting measurements that fail quality checks, converting measurements to anomalies, and then making a robust mean on a monthly grid. The SST data from 1850 to 2014 come from release of 3.0.0 of the ICOADS (International Comprehensive Ocean-Atmosphere Data Set) and from 2015 data taken from ICOADS 3.0.1, augmented with drifting buoy observations from 2016.
@@ -181,7 +180,3 @@ These notebooks and datasets are intended for researchers and analysts working o
 Conclusion:
 
 Each dataset and ipynb in this folder serves a specific purpose in the analysis of climate data. By comparing different datasets of SSTs with SATs across various time periods contribute to a robust framework for evaluating historical temperature trends and improving the understanding of climate variability.
-
-
-
->>>>>>> eef3a5972340e19468a7afff237c15f3399e505d
